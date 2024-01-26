@@ -29,32 +29,38 @@ _I'm a Unity Game Developer with 2 years experience developing cross platform ga
   <summary>Want to know more about me? </summary>
 
 * ⏲️ I love participating in hactathons and gamejams!
-* ⚡ Fun fact: I used to participate in First Tech Challenge (Robotics competition) for 3 years
+* 🤖 Fun fact: I used to participate in First Tech Challenge (Robotics competition) for 3 years
 
   
 </details>
 
 # 🛠️ My Skills
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-
 <div>    
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
-
-
 </div>
 
 <details> 
   <summary>More about my skills</summary>
 
-* This section is on technical work 🛠️
+I have/know:
+* 90%+ of my code is written on C#, I use it for 2 years
+* most of my projects are desktop computer games on Unity
+* completed education in Software Engineering (Bachelor)
+* fundamental knowledge of algorithms and data structures
+* how to use Git
+* what what is OOP, SOLID and what does this mean
+* how to work in team (Agile, Kanban, Jira etc)
+* how to write clean code and understand someone else's one
+* how to use design patterns
+* English knowledge (B1-B2)
+* SQL basics
+* Python basics
 
   
 </details>
