@@ -62,28 +62,27 @@ _I'm a Unity Game Developer with 2 years experience developing cross platform ga
  
 # ✍ My Projects
 
-<!-- _Most of my public work on GitHub is on personal side projects and spans different types of software._ -->
-* This section is on technical work 🛠️
-
-## 🎮 [KitchenChaos]()
+## 🎮 KitchenChaos
 ### Project Status: ✔ in work
-
-<p align="center">
- <a href="https://demo-scene.vercel.app"><img src="https://github.com/HeatherPurple/HeatherPurple/assets/62564571/bdf98010-ecff-41d5-aaa7-99e49838d1c1" width="600"></a>
-</p>
 
 Overcooked-like game.
 
-## 🎮 [CatanOnline]()
+<p align="center">
+ <img src="https://github.com/HeatherPurple/HeatherPurple/assets/62564571/bdf98010-ecff-41d5-aaa7-99e49838d1c1" width="600"></a>
+</p>
+
+
+## 🎮 CatanOnline
 ### Project Status: ✔ in work
 
+Online catan-like board game
 
-## 🎮 [MouseGame]()
+## 🎮 [Сражение за сырную святыню. История старой мыши](https://favir0.itch.io/sk2007)
 ### Project Status: 🕐 on hold
 
-https://www.youtube.com/watch?v=6As-b_4G_PE
+Игра в жанре Tower Defence (TD), созданная во время Siberian GameJam November 2023.
 
-Игра на джем...
+Геймплейное видео: [Тык](https://www.youtube.com/watch?v=6As-b_4G_PE)
 
 ---
 
@@ -145,22 +144,36 @@ https://www.youtube.com/watch?v=6As-b_4G_PE
   </details>
   
   ---
-  
-  ![image](https://github.com/HeatherPurple/HeatherPurple/assets/62564571/23c63e7e-178c-4713-a1b6-736d3a754706)
+
+  <p align="center">
+   <img src="https://github.com/HeatherPurple/HeatherPurple/assets/62564571/2d27ba10-ade4-4ad0-bafb-ec558dafb9e4" width="500"></a>
+   <img src="https://github.com/HeatherPurple/HeatherPurple/assets/62564571/fdbbfe10-dc2b-4095-802e-9a600a911e54" width="500"></a>
+   <img src="https://github.com/HeatherPurple/HeatherPurple/assets/62564571/cbf58e4f-889c-4a25-90ee-2979bbd8b26b" width="500"></a>
+   <img src="https://github.com/HeatherPurple/HeatherPurple/assets/62564571/a08c4d8f-1900-4334-b985-e4d739596d0e" width="500"></a>
+  </p>
 
 
-
-## 🎮 [Slime's Castle]()
+## 🎮 Slime's Castle
 ### Project Status: ✖️ archieved
 
-2D-платформер с элементами приключения
+<img src="https://github.com/S1lentSt0rm/Slime-s-Castle/assets/62564571/d3e6d9a0-3970-467f-9612-28c569a90adc" width="500"></a>
 
-![image](https://github.com/S1lentSt0rm/Slime-s-Castle/assets/62564571/d3e6d9a0-3970-467f-9612-28c569a90adc)
+Игра в жанре 2D-платформер с элементами приключения
 
-В этой игре Вы играете за слизня, который может менять свою форму, превращаясь в различных существ с уникальными способностями. Используя это преимущество, решайте увлекательные головоломки и давайте отпор беспощадным монстрам, затаившимся в подземелье!
+Геймплейное видео: [Тык](https://youtu.be/Q82KuuYkOEg)
 
-![image](https://github.com/S1lentSt0rm/Slime-s-Castle/assets/62564571/eb19ccf7-2318-4334-979d-c15b739a1139)
+---
 
-![image](https://github.com/S1lentSt0rm/Slime-s-Castle/assets/62564571/fcc6dfbe-a5be-4479-a34b-e178c79c9371)
+<details> 
+  <summary>Об игре</summary>
+   В этой игре Вы играете за слизня, который может менять свою форму, превращаясь в различных существ с уникальными способностями. Используя это преимущество, решайте увлекательные головоломки и давайте отпор беспощадным монстрам, затаившимся в подземелье!
+</details>
+
+---
+
+ <p align="center">
+   <img src="https://github.com/S1lentSt0rm/Slime-s-Castle/assets/62564571/eb19ccf7-2318-4334-979d-c15b739a1139" width="500"></a>
+   <img src="https://github.com/S1lentSt0rm/Slime-s-Castle/assets/62564571/fcc6dfbe-a5be-4479-a34b-e178c79c9371" width="500"></a>
+  </p>
 
 
