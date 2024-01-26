@@ -59,8 +59,11 @@ I have/know:
 * how to write clean code and understand someone else's one
 * how to use design patterns
 * English knowledge (B1-B2)
+* 10k+ hours playing different computer/board games
+* experience in hackathons, gamejams, open-source projects
 * SQL basics
 * Python basics
+* skills to learn new technologies
 
   
 </details>
