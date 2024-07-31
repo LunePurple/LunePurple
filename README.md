@@ -19,9 +19,8 @@ _I'm a Unity Game Developer with 2 years experience developing cross platform ga
 
 * 🐻 I live in Saint Petersburg, Russia
 * 🔭 I'm currently looking for a job
-* 🎲 I’m currently working on online catan-like board game
+* 🎲 I’m currently working on coffee shop simulator game
 * 💻 I mostly use C# with Unity
-* 🌱 I’m currently learning Python
 * 📫 How to reach me: feel free to message me on [Telegram](https://t.me/heather_purple) (preferably) or [VK](https://vk.com/heather_purple)
 
 
@@ -71,8 +70,19 @@ I have/know:
  
 # ✍ My Projects
 
-## 🎮 KitchenChaos
+## 🎮 Coffee Shop Simulator
 ### Project Status: ✔ in work
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/ab2010c5-dc4b-4234-ac4b-af9c3e1691a6" width="500"></a>
+   <img src="https://github.com/user-attachments/assets/a06960e6-ce1b-48af-b99f-04e7011db1b8" width="500"></a>
+   <img src="https://github.com/user-attachments/assets/c1fe4f72-7781-4e54-a029-3e26db018af0" width="500"></a>
+   <img src="https://github.com/user-attachments/assets/dc6a2300-a459-43e4-950d-c5b933084540" width="500"></a>
+</p>
+
+
+## 🎮 KitchenChaos
+### Project Status: ✖️ archieved
 
 Overcooked-like game.
 
@@ -82,7 +92,7 @@ Overcooked-like game.
 
 
 ## 🎮 CatanOnline
-### Project Status: ✔ in work
+### Project Status: 🕐 on hold
 
 Online catan-like board game
 
