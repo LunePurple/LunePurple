@@ -15,7 +15,7 @@
 
 # 🧔 About me
 
-_I'm a Unity Game Developer with 3 years experience developing cross platform games for the web, desktop and mobile._ 
+_I'm a Unity Game Developer with 3+ years experience developing cross platform games for the web, desktop and mobile._ 
 
 * 🐻 I live in Saint Petersburg, Russia
 * 🔭 I'm currently looking for a dream job
@@ -47,8 +47,8 @@ _I'm a Unity Game Developer with 3 years experience developing cross platform ga
   <summary>More about my skills</summary>
 
 I have/know:
-* 90%+ of my code is written on C#, I use it for 2 years
-* most of my projects are desktop computer games on Unity
+* 90%+ of my code is written on C#, I use it for 3+ years
+* most of my projects are pc/mobile games on Unity
 * completed education in Software Engineering (Bachelor)
 * fundamental knowledge of algorithms and data structures
 * how to use Git
