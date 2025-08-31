@@ -2,10 +2,6 @@
 <div id="badges" align="center">
   <a href="https://t.me/heather_purple">
     <img src="https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
-  </a>
-  <a href="https://vk.com/heather_purple">
-    <img src="https://img.shields.io/badge/ВКОНТАКТЕ-white?style=for-the-badge&logo=vk&logoColor=blue" alt="VK Badge"/>
-  </a>
   <a href="https://heather-purple.itch.io">
     <img src="https://img.shields.io/badge/itch.io-white?style=for-the-badge&logo=itch.io&logoColor=red" alt="itch.io Badge"/>
   </a>
