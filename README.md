@@ -15,14 +15,13 @@
 
 # 🧔 About me
 
-_I'm a Unity Game Developer with 2 years experience developing cross platform games for the web, desktop and a lil mobile 😅._ 
+_I'm a Unity Game Developer with 3 years experience developing cross platform games for the web, desktop and mobile._ 
 
 * 🐻 I live in Saint Petersburg, Russia
 * 🔭 I'm currently looking for a dream job
 * 🎲 I’m currently working on coffee shop simulator game
 * 💻 I mostly use C# with Unity
-* 📫 How to reach me: feel free to message me on [Telegram](https://t.me/heather_purple) (preferably) or [VK](https://vk.com/heather_purple)
-
+* 📫 How to reach me: feel free to message me on [Telegram](https://t.me/LunePurple)
 
 <details> 
   <summary>Want to know more about me? </summary>
